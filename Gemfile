@@ -6,5 +6,5 @@
 source 'https://rubygems.org'
 
 # Specify your gem's dependencies in dpn-client.gemspec
+gem "dpn-client", :git => "https://github.com/dpn-admin/dpn-client.git"
 gemspec
-
